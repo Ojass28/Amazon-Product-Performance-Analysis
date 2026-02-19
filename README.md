@@ -48,4 +48,11 @@ This project presents a 3-page interactive Power BI dashboard analyzing:
 ---
 
 ## 📷 Dashboard Preview
-(Screenshots will be added below after upload)
+### Page 1 – Product Performance Overview
+![Page 1](Screenshots/Page1_Product_Performance.png)
+
+### Page 2 – Pricing & Discount Analysis
+![Page 2](Screenshots/Page2_Pricing_Discount.png)
+
+### Page 3 – Value & Opportunity Insights
+![Page 3](Screenshots/Page3_Value_Insights.png)
